@@ -1,4 +1,4 @@
 # aicte-ey-internship-project
 
 ## Modelling & Result
-![image](https://github.com/user-attachments/assets/baeaa0f9-dbb8-4666-aba5-57e12cf54198)
+![image](https://github.com/user-attachments/assets/f6783863-71a6-46ba-8565-44d244b56507)
